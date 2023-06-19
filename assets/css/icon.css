@@ -49,3 +49,27 @@
 .icon-ellipse-v {
     background-image: url('../icons/ellipse-v.svg');
 }
+
+.icon-timeline {
+    background-image: url('../icons/timeline.svg');
+}
+
+.icon-emoji {
+    background-image: url('../icons/emoji.svg');
+}
+
+.icon-gif {
+    background-image: url('../icons/gif.svg');
+}
+
+.icon-media {
+    background-image: url('../icons/media.svg');
+}
+
+.icon-poll {
+    background-image: url('../icons/poll.svg');
+}
+
+.icon-schedule {
+    background-image: url('../icons/schedule.svg');
+}

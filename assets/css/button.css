@@ -12,6 +12,13 @@
     cursor: pointer;
 }
 
+.btn-action {
+    width: 34px;
+    height: 34px;
+    padding: 0;
+    justify-content: center;
+}
+
 .btn-block {
     display: flex;
     width: 100%;

@@ -103,3 +103,21 @@ body, html {
     display: flex;
     align-items: center;
 }
+
+.html-editor {
+    width: 100%;
+    min-height: 40px;
+    border: none;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+}
+
+.html-editor:focus {
+    outline: none;
+}
+
+.html-editor span {
+    pointer-events: none;
+    color: #6E767D;
+}
