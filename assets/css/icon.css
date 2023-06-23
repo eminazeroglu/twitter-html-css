@@ -73,3 +73,31 @@
 .icon-schedule {
     background-image: url('../icons/schedule.svg');
 }
+
+.icon-verified {
+    background-image: url('../icons/verified.svg');
+}
+
+.icon-react {
+    background-image: url('../icons/react.svg');
+}
+
+.icon-reply {
+    background-image: url('../icons/reply.svg');
+}
+
+.icon-retweet {
+    background-image: url('../icons/retweet.svg');
+}
+
+.icon-share {
+    background-image: url('../icons/share.svg');
+}
+
+.icon-search {
+    background-image: url('../icons/search.svg');
+}
+
+.icon-settings {
+    background-image: url('../icons/settings.svg');
+}

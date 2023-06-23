@@ -35,3 +35,8 @@
 .btn-primary {
     background-color: var(--primary);
 }
+
+.btn-light {
+    background-color: #EFF3F4;
+    color: #0F1419;
+}
